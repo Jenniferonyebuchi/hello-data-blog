@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Hello Data Blog",
+    "section": "",
+    "text": "Hello Data Blog is a friendly space created to make data, technology, and analytics feel less intimidating and more human.\nThis blog exists for curious minds—beginners, career switchers, students, and professionals—who want to understand data without feeling overwhelmed by jargon or complexity. Whether you’re saying hello to data for the first time or deepening your existing skills, you’ll find content designed to meet you where you are.\nAt Hello Data Blog, we break down:\nData science and analytics concepts in simple, practical terms\nReal-world applications of data and AI\nLearning tips, tools, and resources for growing your data skills\nHonest reflections on learning, working, and building a career in data\nOur goal is not just to teach data, but to demystify it—showing how data shapes everyday decisions, drives innovation, and creates opportunities across industries.\nHello Data Blog believes that data literacy is for everyone. You don’t need to be a math genius or a coding expert to get started—you just need curiosity and consistency.\nSo if you’re ready to explore, learn, and grow one concept at a time, you’re in the right place.\nWelcome to Hello Data Blog — where data finally says hello back. 👋📊"
+  },
+  {
+    "objectID": "posts/post-with-code 2/index.html",
+    "href": "posts/post-with-code 2/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Predictive Analytics in Education",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "predicitive-analytics-in-education",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analytics in Education\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 13, 2026\n\n\nJennifer Onyebuchi\n\n\n\n\n\nNo matching items"
+  }
+]

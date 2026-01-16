@@ -1,0 +1,40 @@
+---
+title: "About Hello Data Blog"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+
+Hello Data Blog is a friendly space created to make data, technology, and analytics feel less intimidating and more human.
+
+This blog exists for curious minds—beginners, career switchers, students, and professionals—who want to understand data without feeling overwhelmed by jargon or complexity. Whether you’re saying hello to data for the first time or deepening your existing skills, you’ll find content designed to meet you where you are.
+
+At Hello Data Blog, we break down:
+
+Data science and analytics concepts in simple, practical terms
+
+Real-world applications of data and AI
+
+Learning tips, tools, and resources for growing your data skills
+
+Honest reflections on learning, working, and building a career in data
+
+Our goal is not just to teach data, but to demystify it—showing how data shapes everyday decisions, drives innovation, and creates opportunities across industries.
+
+Hello Data Blog believes that data literacy is for everyone. You don’t need to be a math genius or a coding expert to get started—you just need curiosity and consistency.
+
+So if you’re ready to explore, learn, and grow one concept at a time, you’re in the right place.
+
+Welcome to Hello Data Blog — where data finally says hello back. 👋📊
